@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@expo/samples": "^3.0.1",
+    "@expo/webpack-config": "^0.5.11",
     "babel-preset-expo": "^5.1.0",
     "jest-expo": "^33.0.0"
   },
